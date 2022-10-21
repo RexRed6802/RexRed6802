@@ -1,4 +1,4 @@
-|Base Info|
+|Base Info
 |----------------------------------------------------------------------|----------------------------------------------------------------------|
 | __Hi, I am Joe! 👋__<br/><br/>🔭 I’m a student in **National ChengChi University, major in MIS** <br/>🌱 Currently learning **Java and Machine Learning** <br/>😀In charge of the teaching assistant in Programming 101, <t>2022f<br/> | 
 |----------------------------------------------------------------------|----------------------------------------------------------------------|
